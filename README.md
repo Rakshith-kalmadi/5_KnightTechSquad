@@ -1,2 +1,1 @@
 # 5_KnightTechSquad
-    gotcha!
